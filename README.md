@@ -18,7 +18,8 @@
 ## 🎯 Demo (animated svg example)
 <!-- Link to a raw SVG inside your repo that contains animation (SMIL). Save path: /assets/loader.svg -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/assets/loader.svg" alt="Animated loader" width="280" />
+  <img src="assets/hero.gif" alt="Hero animation" width="780" />
+
 </p>
 
 ---
